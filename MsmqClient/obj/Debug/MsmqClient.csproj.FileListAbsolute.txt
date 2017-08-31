@@ -1,0 +1,11 @@
+C:\projects\wcf\msmq-hosting\MsmqClient\bin\Debug\MsmqClient.exe.config
+C:\projects\wcf\msmq-hosting\MsmqClient\bin\Debug\MsmqClient.exe
+C:\projects\wcf\msmq-hosting\MsmqClient\bin\Debug\MsmqClient.pdb
+C:\projects\wcf\msmq-hosting\MsmqClient\bin\Debug\MsmqContract.dll
+C:\projects\wcf\msmq-hosting\MsmqClient\bin\Debug\MsmqContract.pdb
+C:\projects\wcf\msmq-hosting\MsmqClient\obj\Debug\MsmqClient.csprojResolveAssemblyReference.cache
+C:\projects\wcf\msmq-hosting\MsmqClient\obj\Debug\MsmqClient.MsmqClientForm.resources
+C:\projects\wcf\msmq-hosting\MsmqClient\obj\Debug\MsmqClient.Properties.Resources.resources
+C:\projects\wcf\msmq-hosting\MsmqClient\obj\Debug\MsmqClient.csproj.GenerateResource.Cache
+C:\projects\wcf\msmq-hosting\MsmqClient\obj\Debug\MsmqClient.exe
+C:\projects\wcf\msmq-hosting\MsmqClient\obj\Debug\MsmqClient.pdb

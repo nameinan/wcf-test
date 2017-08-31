@@ -1,0 +1,5 @@
+C:\projects\wcf\msmq-hosting\MsmqContract\bin\Debug\MsmqContract.dll
+C:\projects\wcf\msmq-hosting\MsmqContract\bin\Debug\MsmqContract.pdb
+C:\projects\wcf\msmq-hosting\MsmqContract\obj\Debug\MsmqContract.csprojResolveAssemblyReference.cache
+C:\projects\wcf\msmq-hosting\MsmqContract\obj\Debug\MsmqContract.dll
+C:\projects\wcf\msmq-hosting\MsmqContract\obj\Debug\MsmqContract.pdb
